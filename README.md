@@ -6,7 +6,7 @@ It's basically a .ps1 script that create RegisterKeys to set the Fluent Terminal
 
 **How to ?**
 
-- Open the .ps1 and replace the $fluentPath by your Fluent Terminal .exe path. It sould look like this : "C:\Users\"username"\AppData\Local\Microsoft\WindowsApps\53621FSApps.FluentTerminal_87x1pks76srcp\flute.exe"
+- Open the .ps1 and replace the $fluentPath by your Fluent Terminal .exe path. It sould look like this : "C:\Users\username\AppData\Local\Microsoft\WindowsApps\53621FSApps.FluentTerminal_87x1pks76srcp\flute.exe"
 - Simply execute the .ps1 with powershell.
 
 Try to run the .ps1 in admin if it dosn't work.
